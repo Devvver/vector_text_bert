@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentence-transformers
+newspaper3k
+beautifulsoup4
+pandas
+numpy
